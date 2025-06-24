@@ -15,3 +15,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
+include(":example:03_尝试使用子模块")
